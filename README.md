@@ -2,9 +2,9 @@
 
 Hi Everyone,
 
-The Following is a code snippet that is used to detect Breast Cancer in an indivisual using Models of Keras upto a accuracy of 95%.
+The Follwing is a code snippet that is used to detect Breast Cancer in an indivisual using Models of Keras upto a accuracy of 95%.
 
-AdittionalHelp
+AditionalHelp
 
 The above project includes various modules of keras that are need to improve the computational speed and accuracy of the model.
 Keras can be used for various CNN Projects as a very important tool in developing new Projects.
