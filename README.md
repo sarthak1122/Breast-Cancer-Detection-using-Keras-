@@ -6,7 +6,7 @@ The Following is a code snippet that is used to detect Breast Cancer in an indiv
 
 AdittionalHelp
 
-The above project includes includes various modules of keras that are need to improve the computational speed and accuracy of the model.
+The above project includes various modules of keras that are need to improve the computational speed and accuracy of the model.
 Keras can be used for various CNN Projects as a very important tool in developing new Projects.
 
 TensorFlow is an open-source software library for dataflow programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks. It is used for both research and production at Google, often replacing its closed-source predecessor, DistBelief.
