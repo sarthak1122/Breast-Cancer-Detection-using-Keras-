@@ -13,7 +13,7 @@ TensorFlow is an open-source software library for dataflow programming across a 
 
 TensoFlow comptations are expressed as stateful dataflow graphs. The name TensorFlow derives from the operations that such neural networks perform on multidimensional data arrays. These arrays are referred to as "tensors". In June 2016, Dean stated that 1,500 repositories on GiHub mentioned TensorFlow, of which only 5 were from Google.
 
-TensorFlw is cross-platform. It runs on nearly everythng: GPUs and CPUs—including mobile and embedded platfrms—and even tensor processing units (TPUs), which are specialized hardware to do tensor math on.
+TensorFlow is cross-platform. It runs on nearly everythng: GPUs and CPUs—including mobile and embedded platfrms—and even tensor processing units (TPUs), which are specialized hardware to do tensor math on.
 
 
 You can know more about Keras and Tf in the link Provided below.
