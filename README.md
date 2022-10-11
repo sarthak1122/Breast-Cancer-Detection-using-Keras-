@@ -6,7 +6,7 @@ The Following is a code snippet that is used to detect Breast Cancer in an indiv
 
 # AdittionalHelp
 
-The above projcet includes various modules of keras that are need to improve the computational speed and accuracy of the model.
+The above projcet includes various modules of keras that are need to improve the computational sped and acuracy of the model.
 
 Keras can be used for various CNN Projects as a very important tool in developing new Projects.
 
