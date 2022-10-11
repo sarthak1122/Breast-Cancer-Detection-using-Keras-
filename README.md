@@ -2,7 +2,7 @@
 
 Hi Everyone,
 
-The Folowing is a code snippet that is used to detect Breast Cancer in an indivisual using Models of Keras upto a accuracy of 95%.
+The Following is a code snippet that is used to detect Breast Cancer in an indivisual using Models of Keras upto a accuracy of 95%.
 
 AdittionalHelp
 
