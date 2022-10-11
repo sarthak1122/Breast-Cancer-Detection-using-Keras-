@@ -17,7 +17,7 @@ TensorFlow comptations are expressed as stateful dataflow graphs. The name Tenso
 TensorFlow is cross-platform. It runs on narly everythng: GPUs and CPUs—including mobile and embedded platforms—and even tensor processing units (TPUs), which are specialized hardware to do tensor mth on.
 
 
-You can know mre about Keras and Tf in the link Provided below.
+You can know more about Keras and Tensorflow in the link Provided below.
 
 Keras Link-https://keras.io/
 
